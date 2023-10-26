@@ -1,0 +1,25 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Lobster', sans-serif;
+}
+
+button{
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 0.5rem;
+}
+.btnbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
